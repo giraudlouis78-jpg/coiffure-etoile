@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.coiffure-etoile-cluses.fr/sitemap.xml
